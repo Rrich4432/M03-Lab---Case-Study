@@ -1,5 +1,6 @@
 # Ryan Richardson
 # M03 Lab - Case Study
+# This program will accept user input for a car and will ask what the cars year, make, model, doors, and type of roof. It will store that information and then output it in an easy-to-read format.
 
 
 #super class
